@@ -1,0 +1,27 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.altestrunner/
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+Order_Letter.pdf
